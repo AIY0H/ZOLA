@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name         ZOLA - Zero Obstruction Listening Assistant
-// @namespace    https://github.com/tonpseudo/zola
-// @version      1.4
-// @description  Removes trial modals and backdrops from Epidemic Sound
+// @name         ZOLA - Zero Overlays, Liberated Audio 🎧
+// @namespace    http://tampermonkey.net/
+// @version      1.1
+// @description  Supprime un titre spécifique et ajoute une scrollbar sur toutes les pages de lesite.com
 // @author       AIY0H
 // @match        https://www.epidemicsound.com/*
 // @grant        none
-// @license      MIT
 // ==/UserScript==
 
 (function () {
