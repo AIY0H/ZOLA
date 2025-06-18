@@ -8,9 +8,9 @@ ZOLA is a lightweight Tampermonkey userscript that removes trial modals and back
 - Reactivates scrolling
 
 ## Installation
-1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Click on [this script](https://github.com/tonpseudo/zola/raw/main/zola.user.js)
-3. Tampermonkey will prompt you to install it
+1. Install [Tampermonkey](https://www.tampermonkey.net/) extension for your browser
+2. Copy and past [this script]([https://github.com/tonpseudo/zola/raw/main/zola.user.js](https://github.com/AIY0H/ZOLA/blob/main/Script)) on a new Tampermonkey Project
+3. Have fun
 
 ## License
 MIT
