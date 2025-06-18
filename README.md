@@ -1,4 +1,4 @@
-# ZOLA - Zero Obstruction Listening Assistant 🎧
+# ZOLA - Zero Overlays, Liberated Audio 🎧
 
 ZOLA is a lightweight Tampermonkey userscript that removes trial modals and backdrop overlays from www.epidemicsound.com and restores scroll functionality for a smooth, uninterrupted listening experience.
 
